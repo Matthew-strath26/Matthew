@@ -6,14 +6,29 @@ title: "WritingExercise05"
 
 - What are the areas you think you are good at? Where can you improve?
 
+good: removing words and parts of sentences, active voice
+
+can improve: paragraph flow, paragraph strcture. 
+deciding which sentences are immaterial
+
 - How will you further develop your skills over the coming year? Can you make a specific, detailed plan?
+
+develop my ability to write a topic sentence and then expand upon it.
 
 # Reflect on writing more generally
 
 - What principles of composition discussed today did you find most useful?
+
+paragraph composition, topic compositions (by paragraph)
 
 - If you were going to formulate your own writing rules, what would they be?
 
 # Commit your reflections to writing
 
 Compose a paragraph summarizing your reflections. Remember to use the "commit" process to save your changes when you are finished.
+
+it is important to compose paragraphs in scientific writing, using topic sentences.
+while, there are many important aspects of scientific writing, the ability to construct and manage flow of information is perhaps the most important. A paragraph requires a statement, and then one or more statements expanding on the statement, to argue its relevence or trueness. these sentences must be within the scope of the topic so as not to stand out. finally we must end with a sentence which summarises the paragraph or at least, suggests its consequences. This demonstrates why paragraph topic structures are so important to enable to the reader to understand and decode what they need to.
+
+
+
